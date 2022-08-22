@@ -1,8 +1,6 @@
 # Welcome to alele.io! :monkey_face:
 
-[alele.io](https://alele.io) is a public database of teambuilding games. The database is wrapped in a REST API
-(this repository!) which is available at [alele.io/api](https://alele.io/api) and can be accessed through the web
-and mobile devices. It's a labour of love and relies on its community (you!) to survive and thrive.
+[alele.io](https://alele.io) is a public database of teambuilding games. The database is wrapped in a REST API which is available at [alele.io/api](https://alele.io/api) and can be accessed through the web and mobile devices. It's a labour of love and relies on its community to survive and thrive.
 
 So, how can you help?
 
